@@ -34,7 +34,7 @@ Below are some rectangular images showcasing various sections of the project:
 <img src="./idcard.png" alt="Sujoy's ID Card" width="300" /> <!-- Adjusted size for the ID card -->
 
 ### 🔗 Project Links
-- **Live Demo**: [Panaverse Clone - Demo](#)
+- **Live Demo**: [Panaverse Clone - Demo](https://sdeintern2025.vercel.app/)
 - **Figma Design**: [Panaverse Figma Design](https://www.figma.com/design/d85Qhq3DcaZaamPRmvkZ9P/Panaverse-Clone?node-id=1-23&node-type=frame&t=HzElex8z9vZ4cjjH-0-)
 
 ---
