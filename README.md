@@ -36,7 +36,7 @@ Below are some rectangular images showcasing various sections of the project:
 ### 🔗 Project Links
 - **Live Demo**: [Panaverse Clone - Demo](https://sdeintern2025.vercel.app/)
 - **Figma Design**: [Panaverse Figma Design](https://www.figma.com/design/d85Qhq3DcaZaamPRmvkZ9P/Panaverse-Clone?node-id=1-23&node-type=frame&t=HzElex8z9vZ4cjjH-0-)
-
+-  **Task Tracker**: [Task Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1cSiICirGLiLyG5fVbRE93PD_UMVueRAeSzHW_QPoLiA/edit?gid=0#gid=0)
 ---
 
 ## 📋 Table of Contents
