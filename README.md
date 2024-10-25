@@ -31,7 +31,7 @@ Below are some rectangular images showcasing various sections of the project:
 
 ### Company ID Card
 
-![Sujoy's ID Card](./idcard.png)
+<img src="./idcard.png" alt="Sujoy's ID Card" width="300" /> <!-- Adjusted size for the ID card -->
 
 ### 🔗 Project Links
 - **Live Demo**: [Panaverse Clone - Demo](#)
