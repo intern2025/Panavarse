@@ -24,14 +24,14 @@ Below are some rectangular images showcasing various sections of the project:
         <img src="https://via.placeholder.com/600x300" alt="Footer Section" width="600" />
     </td>
     <td>
-        <img src="./idcard.png" alt="Sujoy's ID Card" width="600" />
+        <img src="https://via.placeholder.com/600x300" alt="Sujoy's ID Card" width="600" />
     </td>
 </tr>
 </table>
 
 ### Company ID Card
 
-![Sujoy's ID Card](https://via.placeholder.com/300x200)
+![Sujoy's ID Card](./idcard.png)
 
 ### 🔗 Project Links
 - **Live Demo**: [Panaverse Clone - Demo](#)
