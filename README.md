@@ -2,6 +2,37 @@
 
 This project is a clone of the Panaverse website built with **Nextjs** and integrates a design inspired by [Figma](https://www.figma.com/design/d85Qhq3DcaZaamPRmvkZ9P/Panaverse-Clone?node-id=1-23&node-type=frame&t=HzElex8z9vZ4cjjH-0-). It demonstrates proficiency with React, component-based architecture, and layout management for responsive interfaces.
 
+## 📸 Screenshots & Demo
+
+Here’s a preview of the Panaverse Clone project in action. For a complete visual guide, refer to the [Figma design link](https://www.figma.com/design/d85Qhq3DcaZaamPRmvkZ9P/Panaverse-Clone?node-id=1-23&node-type=frame&t=HzElex8z9vZ4cjjH-0-).
+
+### Project Images
+
+Below are some rectangular images showcasing various sections of the project:
+
+<table>
+<tr>
+    <td>
+        <img src="./dashboard.png" alt="Dashboard Screenshot" width="600" />
+    </td>
+    <td>
+        <img src="https://via.placeholder.com/600x300" alt="Courses Section" width="600" />
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://via.placeholder.com/600x300" alt="Footer Section" width="600" />
+    </td>
+    <td>
+        <img src="./idcard.png" alt="Sujoy's ID Card" width="600" />
+    </td>
+</tr>
+</table>
+
+### Company ID Card
+
+![Sujoy's ID Card](https://via.placeholder.com/300x200)
+
 ### 🔗 Project Links
 - **Live Demo**: [Panaverse Clone - Demo](#)
 - **Figma Design**: [Panaverse Figma Design](https://www.figma.com/design/d85Qhq3DcaZaamPRmvkZ9P/Panaverse-Clone?node-id=1-23&node-type=frame&t=HzElex8z9vZ4cjjH-0-)
